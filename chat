@@ -1,1 +1,11 @@
 hello
+Niam
+where are you
+for css u can use
+1. :root
+2. ::before/after
+3. nth-child(x)
+4. var(--y)
+5. @keyframes
+6. -webkit-
+7. @media
